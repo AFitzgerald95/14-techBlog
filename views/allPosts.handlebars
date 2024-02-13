@@ -1,0 +1,16 @@
+<div>
+    {{#each posts}}
+    <article>
+        <div>
+            <h2>
+            </h2>
+            <div>
+                Created by {{User.username}} on {{format_date createdAt}}
+            </div>
+        </div>
+        <div>
+            {{body}}
+        </div>
+    </article>
+    {{/each}}
+</div>
