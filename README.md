@@ -34,3 +34,5 @@
   Github: [AFitzgerald95](https://github.com/AFitzgerald95)
 
   Email: [austin.fitzgerald702@gmail.com](mailto:austin.fitzgerald702@gmail.com)
+
+  You can visit the site [HERE](https://afitzgerald95.github.io/14-techBlog/)
